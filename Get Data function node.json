@@ -1,0 +1,3 @@
+var obtaindata = global.get ("data")
+msg.payload = obtaindata;
+return msg;

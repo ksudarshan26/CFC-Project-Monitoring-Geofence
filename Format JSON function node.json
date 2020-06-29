@@ -1,0 +1,8 @@
+return {
+    payload: {
+        name: msg.payload.tid,
+        lat: msg.payload.lat,
+        lon: msg.payload.lon,
+        icon: 'user-circle-o'
+    }
+};

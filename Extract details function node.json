@@ -1,0 +1,3 @@
+return {
+    payload: msg.payload.body
+};
