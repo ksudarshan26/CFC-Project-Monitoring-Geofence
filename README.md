@@ -1,0 +1,2 @@
+# CFC-Project-Monitoring-Geofence
+The project aims to monitor the person by creating the Geofence on the map. It outputs the location coordinates of the user and displays whether the user is inside the Geofence area or not. It also helps to track the location of the user. Location details are sent from Owntracks to Webhook relay. Notifications to the user mobile can be send using the Push bullet to alert the user.
