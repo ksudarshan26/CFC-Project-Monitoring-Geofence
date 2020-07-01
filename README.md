@@ -10,3 +10,8 @@ This project can be further extended to store user location data in a cloud data
 
 
 Video URL: https://vimeo.com/433331914
+
+![](Architecture.JPG)
+
+
+![](NodeRed.JPG)
