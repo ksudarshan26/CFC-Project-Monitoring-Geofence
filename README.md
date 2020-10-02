@@ -9,7 +9,7 @@ The webhookrelay node gets the location details from webhook relay bucket which 
 This project can be further extended to store user location data in a cloud database for continuous monitoring with premium plan. It can be extended for tracking multiple persons. This may even help for contact tracing by finding the path user travelled. This project can be further enriched with additional technologies to analyse the crowd in particular area and notify user if they had added to visit in their timeline. It can be helpful to minimize the spread of COVID. This project can also be improved to use for commercial marketing advertaisement purposes by sending notifications or messages when a person enters particular area.  
 
 
-**Video URL:** https://vimeo.com/433331914
+**Video URL:** https://youtu.be/GyvVj2Op3Fs
 
 **Solution Architecture:**
 
