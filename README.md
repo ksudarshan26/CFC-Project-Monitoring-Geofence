@@ -16,7 +16,7 @@ This project can be further extended to store user location data in a cloud data
 ![](Architecture.JPG)
 
 
-![](NodeRed.JPG)
+![](NodeRedFlow.JPG)
 
 **Outputs:**
 
